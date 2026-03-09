@@ -42,6 +42,8 @@
   {\normalfont\large\bfseries}{\S\thesubsection}{1em}{}
   \titleformat{\subsubsection}
   {\normalfont\normalsize\bfseries}{\S\thesubsubsection}{1em}{}
+  \titleformat{\paragraph}
+  {\normalfont\normalsize\bfseries}{\S\theparagraph}{1em}{}
 }
 
 \DeclareDocumentCommand \subtitle {m} {%
